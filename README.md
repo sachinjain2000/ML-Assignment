@@ -4,7 +4,7 @@
 - **Task 2**: MTL with Sentence Classification and Sentiment Analysis.
 - **Task 3**: Training scenarios and transfer learning discussion.
 - **Task 4**: Bonus training loop.
-=======
+
 # ML Apprentice Take-Home Challenge
 
 - The explanations for **Task 1, Task 2, and Task 4** are provided within the **Jupyter Notebook**, along with my rationale and thought process in the markdown sections.  
