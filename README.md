@@ -5,8 +5,8 @@
 - **Task 4**: Training loop implementation.
 
 # Submission format
-- The explanations for **Task 1, Task 2, and Task 4** are provided within the **Jupyter Notebook**, along with my rationale and thought process in the markdown sections.  
-- The deliverable for **Task 3** is available in the **Task_Approach.pdf** file.  
+- The explanations for **Task 1, Task 2, and Task 4** are provided within the [📘 Jupyter Notebook (Tasks 1, 2, 4)](Tasks.ipynb), along with my rationale and thought process in the markdown sections.  
+- The deliverable for **Task 3** is available in the [📄 Task 3 Approach](Task_Approach.pdf) file.  
 
 ## Prerequisites
 Note: docker container takes care of all other requirements.
