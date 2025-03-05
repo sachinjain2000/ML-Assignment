@@ -1,26 +1,19 @@
-
 # ML Apprentice Take-Home Exercise
-- **Task 1**: Sentence embeddings with `all-MiniLM-L6-v2`.
-- **Task 2**: MTL with Sentence Classification and Sentiment Analysis.
-- **Task 3**: Training scenarios and transfer learning discussion.
-- **Task 4**: Bonus training loop.
+- **Task 1**: Sentence Transformer Implementation.
+- **Task 2**: Multi-Task Learning Expansion.
+- **Task 3**: Training Considerations.
+- **Task 4**: Training loop implementation.
 
-# ML Apprentice Take-Home Challenge
-
+# Submission format
 - The explanations for **Task 1, Task 2, and Task 4** are provided within the **Jupyter Notebook**, along with my rationale and thought process in the markdown sections.  
 - The deliverable for **Task 3** is available in the **Task_Approach.pdf** file.  
 
 ## Prerequisites
+Note: docker container takes care of all other requirements.
 Ensure you have the following installed before proceeding:
-
 - **Docker Desktop** (for running the project in a containerized environment)
 - **Git** (to clone the repository)
-- **Python 3** (required for executing scripts and Jupyter Notebook)
-- **pip** (to install required dependencies)
-- **Jupyter Notebook** (included in the dependencies but required to view `.ipynb` files)
-
 ## Setup & Running the Code
-
 ### Clone the Repository
 ```sh
 git clone https://github.com/sachinjain2000/ML-Assignment.git
@@ -48,9 +41,10 @@ docker run -p 8888:8888 ml-apprentice-jupyter
 ## Project Structure
 ```
 📂 ML-Assignment
-│── 📜 README.md        # Project documentation
-│── 📜 requirements.txt # Dependencies
 │── 📜 Dockerfile       # Docker configuration
-│── 📜 Task_Approach.pdf # Task 3 write-up
+│── 📜 README.md        # Project documentation
+│── 📜 Task_Approach.pdf    # Task 3 write-up
 │── 📜 Tasks.ipynb      # Jupyter Notebook (Tasks 1, 2, 4)
+│── 📜 requirements.txt     # Dependencies
+
 ```
