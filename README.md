@@ -34,11 +34,11 @@ docker build -t ml-apprentice-jupyter .
 docker run -p 8888:8888 ml-apprentice-jupyter
 
 # Copy any of the Jupyter Notebook links provided in the terminal and run it on the browser of your choice
-  To access the notebook, open this file in a browser:
-        file:///home/jovyan/.local/share/jupyter/runtime/nbserver-7-open.html
-    Or copy and paste one of these URLs:
-        http://eb822d279bed:8888/?token=796fe0187cda55fe93cf10d784ab26d5394495dc26e22e82
-     or http://127.0.0.1:8888/?token=796fe0187cda55fe93cf10d784ab26d5394495dc26e22e82
+To access the notebook, open this file in a browser:
+    file:///home/jovyan/.local/share/jupyter/runtime/nbserver-7-open.html
+Or copy and paste one of these URLs:
+     http://eb822d279bed:8888/?token=796fe0187cda55fe93cf10d784ab26d5394495dc26e22e82
+  or http://127.0.0.1:8888/?token=796fe0187cda55fe93cf10d784ab26d5394495dc26e22e82
 
 
 ```
