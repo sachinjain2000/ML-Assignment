@@ -9,7 +9,7 @@
 - The deliverable for **Task 3** is available in the [📄 Task 3 Approach](Task_Approach.pdf) file.  
 
 ## Prerequisites
-Note: docker container takes care of all other requirements.
+Note: Docker container takes care of all other requirements.
 Ensure you have the following installed before proceeding:
 - [Docker Desktop](https://docs.docker.com/desktop/?_gl=1*4f22un*_gcl_au*MTgwOTE4NTYyMS4xNzQwNzE4Mjc1*_ga*MTU2NDg3OTY1OS4xNzQwNzE4Mjc1*_ga_XJWPQMJYHQ*MTc0MTE0MTgyOC4yLjEuMTc0MTE0MTgyOS41OS4wLjA.) (for running the project in a containerized environment)
 - [Git](https://git-scm.com/downloads) (to clone the repository)
