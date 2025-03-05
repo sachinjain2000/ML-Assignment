@@ -2,7 +2,7 @@
 - **Task 1**: Sentence Transformer Implementation.
 - **Task 2**: Multi-Task Learning Expansion.
 - **Task 3**: Training Considerations.
-- **Task 4**: Training loop implementation.
+- **Task 4**: Training Loop Implementation.
 
 # Submission Format
 - The explanations for **Task 1, Task 2, and Task 4** are provided within the [📘 Jupyter Notebook (Tasks 1, 2, 4)](Tasks.ipynb), along with my rationale and thought process in the markdown sections.  
