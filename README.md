@@ -12,7 +12,7 @@
 Note: docker container takes care of all other requirements.
 Ensure you have the following installed before proceeding:
 - [Docker Desktop](https://docs.docker.com/desktop/?_gl=1*4f22un*_gcl_au*MTgwOTE4NTYyMS4xNzQwNzE4Mjc1*_ga*MTU2NDg3OTY1OS4xNzQwNzE4Mjc1*_ga_XJWPQMJYHQ*MTc0MTE0MTgyOC4yLjEuMTc0MTE0MTgyOS41OS4wLjA.) (for running the project in a containerized environment)
-- **Git** (to clone the repository)
+- [Git](https://git-scm.com/downloads) (to clone the repository)
 ## Setup & Running the Code
 ### Clone the Repository
 ```sh
