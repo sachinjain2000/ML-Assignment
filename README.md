@@ -33,7 +33,7 @@ docker build -t ml-apprentice-jupyter .
 # Run the container
 docker run -p 8888:8888 ml-apprentice-jupyter
 
-# Copy and open the Jupyter Notebook link provided in the terminal
+# Copy the Jupyter Notebook link provided in the terminal and run it on the browser of your choice
 ```
 
 ---
